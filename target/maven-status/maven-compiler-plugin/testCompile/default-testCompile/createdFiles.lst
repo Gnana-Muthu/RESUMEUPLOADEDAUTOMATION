@@ -1,0 +1,6 @@
+com/test/Uistore/LoginUiStore.class
+com/test/Utilities/PropertyFile.class
+com/test/StepDefinition/UploadResumeStepDefinition.class
+com/test/runner/Runner.class
+com/test/Reusable/ReusableComponents.class
+com/test/Reusable/ReusableMethod.class
