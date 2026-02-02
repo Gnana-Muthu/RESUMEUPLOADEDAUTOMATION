@@ -25,8 +25,8 @@ jobs:
           server-id: github
           server-username: GITHUB_ACTOR
           server-password: GITHUB_TOKEN
-          overwrite-settings: true # Use the Java version your project requires
-
+          overwrite-settings: true 
+          cache: 'maven'
     # Step 3: Set up Maven
     - name: Set up Maven
       run: |
